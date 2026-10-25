@@ -50,4 +50,3 @@ Visual escuro inspirado em ferramentas de desenvolvimento, com detalhes em verde
 
 ![Tela de verificação do Template 3](t3-imgs/verificacao-template3.jpg)
 
-> As pastas de imagens estão no `.gitignore`. Por isso, as imagens são exibidas localmente, mas não ficam disponíveis no README publicado no GitHub.
